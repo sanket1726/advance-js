@@ -130,5 +130,7 @@ console.log(addThree([1, 2, 3])); // Output: [4, 5, 6]
  * Partial Application: Currying supports creating specialized functions with preset arguments.
  * Higher-Order Functions: Currying integrates well with functions that operate on or return other functions.
  * Immutability: Currying supports creating new functions without modifying the original ones.
- * Currying aligns seamlessly with these core functional programming concepts, making code more modular, reusable, and expressive. Let me know if there's anything specific you'd like to delve deeper into!
+ * Currying aligns seamlessly with these core functional programming concepts,
+ * making code more modular, reusable, and expressive. 
+ * Let me know if there's anything specific you'd like to delve deeper into!
  */
