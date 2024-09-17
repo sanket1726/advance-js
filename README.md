@@ -13,6 +13,33 @@ This repository is dedicated to learning, practicing, and mastering essential Ja
 - **Error Handling**: Try/Catch, Custom Errors
 - **Advanced Topics**: Event Emitters, Memory Management, JavaScript Engines
 - **Browser APIs**: DOM Manipulation, Event Handling, Fetch API
+- **Design Patterns**: Creational, Structural, behavioral
+    - Creational:
+        1. Factory
+        2. Abstract
+        3. Builder
+        4. Prototype
+        5. Singleton
+    - Structural
+        1. Adapter
+        2. Bridge
+        3. Composite
+        4. Decorator
+        5. Facade
+        6. Flyweight
+        7. Proxy
+    - Behavioral
+        1. Chain of Responsibility
+        2. Command
+        3. Interpreter
+        4. Iterator
+        5. Mediator
+        6. Memento
+        7. Ovserver
+        8. Strategy
+        9. Template Method
+        10. Visitor
+
 
 Each concept is accompanied by well-commented code snippets, real-world examples, and hands-on exercises to help reinforce understanding.
 
